@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from typing import List, Union
 #Type-annotated function that takes a group of numbers and returns their sum as a float
 
