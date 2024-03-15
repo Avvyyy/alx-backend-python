@@ -1,16 +1,9 @@
 #!/usr/bin/env python3
+'''Task 0's module.
+'''
 
-""" Program to add two numbers"""
 
 def add(a: float, b: float) -> float:
-	"""
-	Function that adds two numbers
-	
-	Args:
-	a
-	b
-
-	Return
-	a + b
-	"""
-	return (a + b)
+    '''Adds two floating-point numbers.
+    '''
+    return a + b

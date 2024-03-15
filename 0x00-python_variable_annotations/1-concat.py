@@ -1,17 +1,9 @@
 #!/usr/bin/env python3
+'''Task 1's module.
+'''
 
-"""Program to concatenate 2 strings"""
 
-# Type annotated function that concetenates 2 strings
 def concat(str1: str, str2: str) -> str:
-	"""	
-		Program to concatenate 2 strings
-
-		Args:
-			str1
-			str2
-
-		Return:
-		Concatenated String
-	"""
-	return str1 + str2
+    '''Concatenates two strings.
+    '''
+    return str1 + str2
