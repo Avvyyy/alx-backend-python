@@ -1,1 +1,1 @@
-# Repository for all python backend relate d projects 
+# Repository for all python backend related projects 
